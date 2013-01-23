@@ -1,6 +1,8 @@
 less.js
 =======
 
+**Light distribution**: ~300kb instead of 5mb by only keeping the actual library files.
+
 The **dynamic** stylesheet language.
 
 <http://lesscss.org>
